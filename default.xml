@@ -50,7 +50,7 @@
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="notdefault,device,mako" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="notdefault,device,manta" />
-  <project path="device/samsung/toro" name="device/samsung/toro" groups="notdefault,device,toro" revision="refs/heads/master" />
+  <project path="device/samsung/toro" name="MWisBest/device_samsung_toro" groups="notdefault,device,toro" remote="github" revision="refs/heads/android-4.4" />
   <project path="device/samsung/tuna" name="MWisBest/device_samsung_tuna" groups="notdefault,device,toro,tuna" remote="github" revision="refs/heads/android-4.4" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
