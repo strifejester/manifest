@@ -436,6 +436,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/broadcom" name="MWisBest/proprietary_vendor_broadcom" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
+  <project path="vendor/fml" name="MWisBest/vendor_fml" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,fml,maguro,toro,toroplus,tuna" />
   <project path="vendor/imgtec" name="MWisBest/proprietary_vendor_imgtec" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
   <project path="vendor/invensense" name="MWisBest/proprietary_vendor_invensense" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
   <project path="vendor/nxp" name="MWisBest/proprietary_vendor_nxp" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
