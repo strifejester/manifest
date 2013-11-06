@@ -68,6 +68,7 @@
   <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
+  <project path="external/busybox" name="MWisBest/external_busybox" remote="github" revision="refs/heads/android-4.4" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" groups="pdk" />
@@ -150,6 +151,8 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
+  <project path="external/koush/Superuser" name="koush/Superuser" remote="github" revision="refs/heads/master" />
+  <project path="external/koush/Widgets" name="koush/Widgets" remote="github" revision="refs/heads/master" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
@@ -442,6 +445,4 @@
   <project path="vendor/nxp" name="MWisBest/proprietary_vendor_nxp" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
   <project path="vendor/samsung" name="MWisBest/proprietary_vendor_samsung" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
   <project path="vendor/widevine" name="MWisBest/proprietary_vendor_widevine" remote="github" revision="refs/heads/android-4.4" groups="notdefault,vendor,maguro,toro,toroplus,tuna" />
-  <project path="external/koush/Superuser" name="koush/Superuser" remote="github" revision="refs/heads/master" />
-  <project path="external/koush/Widgets" name="koush/Widgets" remote="github" revision="refs/heads/master" />
 </manifest>
