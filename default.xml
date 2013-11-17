@@ -7,6 +7,12 @@
   <remote  name="github"
            fetch="https://github.com/" />
 
+  <remote  name="linaro"
+           fetch="git://android.git.linaro.org/" />
+
+  <remote  name="linaro-other"
+           fetch="git://git.linaro.org/" />
+
   <default revision="refs/tags/android-4.4_r1.1"
            remote="aosp"
            sync-c="true"
