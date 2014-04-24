@@ -78,7 +78,7 @@
   <project path="external/ceres-solver" name="platform/external/ceres-solver" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" groups="pdk" />
   <project path="external/chromium" name="platform/external/chromium" />
-  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
+  <project path="external/chromium-libpac" name="MWisBest/android_external_chromium-libpac" remote="github" revision="refs/heads/fml-master" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
   <project path="external/chromium_org" name="platform/external/chromium_org" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
