@@ -323,7 +323,7 @@
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
-  <project path="kernel/samsung/tuna" name="MWisBest/kernel_samsung_tuna" remote="github" revision="refs/heads/omni-4.4" groups="notdefault,kernel,toro,tuna" />
+  <project path="kernel/samsung/tuna" name="MWisBest/android_kernel_samsung_tuna" remote="github" revision="refs/heads/omni-4.4" groups="notdefault,kernel,toro,tuna" />
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
