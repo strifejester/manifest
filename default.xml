@@ -325,7 +325,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="MWisBest/android_hardware_ti_omap4xxx" remote="github" revision="refs/heads/fml-master" groups="omap4" />
   <project path="kernel/samsung/tuna" name="MWisBest/android_kernel_samsung_tuna" remote="github" revision="refs/heads/omni-4.4" groups="notdefault,kernel,toro,tuna" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="MWisBest/android_libcore" remote="github" revision="refs/heads/fml-master" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
