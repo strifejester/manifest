@@ -167,6 +167,8 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
+  <project path="external/koush/Superuser" name="MWisBest/Superuser" remote="github" revision="refs/heads/fml-master" />
+  <project path="external/koush/Widgets" name="MWisBest/Widgets" remote="github" revision="refs/heads/fml-master" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <project path="external/libcxx" name="platform/external/libcxx" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" />
@@ -361,7 +363,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
+  <project path="packages/apps/Settings" name="MWisBest/packages_apps_Settings" remote="github" revision="refs/heads/fml-master" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
